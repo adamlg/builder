@@ -5,7 +5,7 @@ Builder is a GUI for basic HTML development and styling.  Without writing any co
 
 ## Usage
 
-Open view.html in your browser, and click the buttons to add elements to the page.  You can then change values in the menu (make sure it's a valid CSS value!) to change the formatting of each element.
+Open view.html in your browser, and click the buttons to add elements to the page.  You can then change values in the menu (make sure it's a valid CSS value!) to change the formatting of each element.  You can click on any menu item (the green boxes) to hide a menu you're not using, and click it again to expand it.
 
 ## Current Limitations
 
