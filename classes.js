@@ -1,3 +1,13 @@
+$(document).ready(function(){
+	$('#addDiv').on('click', function(){
+		new Div()
+	})
+
+	$('#addButton').on('click', function(){
+		new Button()
+	})
+})
+
 var eventTypes = ['click','hover','dblclick','mouseenter']
 
 //this object will be used in formulas to reference values/properties of formulas and whatnot
